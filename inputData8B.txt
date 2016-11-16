@@ -1,0 +1,175 @@
+Abidjan
+Abu Dhabi
+Adelaide
+Alexandria
+Algiers
+Ankara
+Baghdad
+Brasilia
+Bucharest
+Budapest
+Buenos Aires
+Cairo
+Canberra
+Cape Town
+Caracas
+Casablanca
+Chicago
+Copenhagen
+Dallas
+Damascus
+Denver
+Detroit
+Dubai
+Dublin
+Durban
+Florence
+Fort Worth
+Frankfurt
+Geneva
+Glasgow
+Anaheim
+Anchorage
+Arlington
+Aurora
+Baltimore
+Baton Rouge
+Birmingham
+Boise City
+Boston
+Buffalo
+Chandler
+Charlotte
+Chesapeake
+Chula Vista
+Cincinnati
+Cleveland
+Colorado Springs
+Columbus
+Corpus Christi
+Des Moines
+Detroit
+Durham
+El Paso
+Fayetteville
+Fort Wayne
+Freemont
+Fresno
+Garland
+Gilbert
+Garland
+Gilbert
+Havana
+Helsinki
+Ibiza
+Islamabad
+Istanbul
+Jakarta
+Jerusalem
+Khartoum
+Kiev
+Kinshasa
+Kuala Lumpur
+Las Vegas
+Lima
+Lisbon
+London
+Los Angeles
+Madrid
+Manila
+Marrakech
+Melbourne
+Mexico City
+Miami
+Milan
+Montreal
+Moscow
+Moscow
+Mumbai
+Munich
+New Delhi
+Greensboro
+Henderson
+Hialeah
+Honolulu
+Houston
+Indianapolis
+Irvine
+Irving
+Jacksonville
+Jersey City
+Kansas City
+Laredo
+Lincoln
+Long Beach
+Louisville
+Lubbock
+Madison
+Memphis
+Mesa
+Milwaukee
+Minneapolis
+Modesto
+Montgomery
+Nashville
+Newark
+Norfolk
+North Las Vegas
+New Orleans
+New York
+Oslo
+Ottawa
+Paris
+Perth
+Pyongyang
+Quito
+Rio de Janeiro
+Riyadh
+Rome
+San Diego
+San Francisco
+Santiago
+Sao Paulo
+Seattle
+Seoul
+Shanghai
+Sofia
+Stockholm
+Sydney
+Tehran
+Tokyo
+Toronto
+Tripoli
+Vienna
+Warsaw
+Washington Dc
+Wellington
+Orlando
+Oakland
+Oklahoma City
+Paradise
+Philadelphia
+Phoenix
+Portland
+Raleigh
+Reno
+Richmond
+Riverside
+Rochester
+Sacramento
+Saint Paul
+Saint Petersburg
+San Bernardino
+San Jose
+Santa Ana
+Scottsdale
+Shreveport
+Spokane
+St Louis
+Stockton
+Tampa
+Toledo
+Tucson
+Tulsa
+Virginia Beach
+Wichita
